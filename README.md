@@ -1,7 +1,7 @@
 # FoliaHTML
 FoliaHTML to HTML, tylko że, po polsku, nawet debil go zrozumie!<br>
 Ten fork to okrojona wersja FoliaHTML działająca na Internet Explorer 11.<br>
-Skompilowane za pomocą Babel.
+Skompilowane za pomocą Babel i Autoprefixer.
 
 ## Pull requesty
 Pull requesty mile widziane, dziękujemy z góry.
